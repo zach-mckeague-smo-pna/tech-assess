@@ -1,0 +1,9 @@
+{
+  "name": "tech-assess",
+  "version": "1.0.0",
+  "description": "Assessment",
+  "main": "index.js",
+  "repository": "https://github.com/zach-mckeague-smo-pna/tech-assess.git",
+  "author": "Panasonic",
+  "license": "MIT"
+}
