@@ -15,3 +15,4 @@ Simple code exercises for Panasonic NextLab!
   * Using the following API: [https://jsonplaceholder.typicode.com/]
   * Write a function to get all Posts
   * Limit the call to only retrieve 5 posts.
+
